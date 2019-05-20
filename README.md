@@ -31,14 +31,17 @@ sudo pip install hyper
 ##安装python机器学习依赖
 
 1.安装numpy：
+
     pip install numpy
 
 2.安装scipy：
+
     sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran
     
     sudo pip install scipy
 
 3.安装scikit-learn
+
     sudo pip sklearn
 
 
