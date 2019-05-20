@@ -2,7 +2,10 @@
 
 Install process for Ubuntu 16.04 LTS
 
-安装系统运行依赖
+##安装系统运行依赖，完成语音唤醒
+
+参考https://developer.baidu.com/forum/topic/show/244631?pageNo=1  https://developer.baidu.com/forum/topic/show/244881
+
 
 sudo apt-get update
 
@@ -16,7 +19,7 @@ sudo apt-get install libatlas-base-dev
 
 sudo apt-get install python-dev
 
-sudo apt-get install baidu-aip
+sudo pip install baidu-aip
 
 sudo pip install tornado
 
@@ -24,7 +27,7 @@ sudo pip install hyper
 
 如果有安装不上的建议到https://pypi.python.org/pypi找相应的二进制包安装，或者更换国内的源。
 
-安装界面播放软件
+##安装界面播放软件
 
 参考：https://www.jianshu.com/p/d6ff45e983ce
 
