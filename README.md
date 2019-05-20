@@ -25,11 +25,27 @@ sudo pip install tornado
 
 sudo pip install hyper
 
+
 如果有安装不上的建议到https://pypi.python.org/pypi找相应的二进制包安装，或者更换国内的源。
+
+##安装python机器学习依赖
+
+1.安装numpy：
+    pip install numpy
+
+2.安装scipy：
+    sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran
+    
+    sudo pip install scipy
+
+3.安装scikit-learn
+    sudo pip sklearn
+
 
 ##安装界面播放软件
 
 参考：https://www.jianshu.com/p/d6ff45e983ce
+使用方法和参数表：https://forum.ubuntu.org.cn/viewtopic.php?t=39270
 
 xwinwrap + mplayer
 
