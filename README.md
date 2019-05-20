@@ -4,7 +4,7 @@ Install process for Ubuntu 16.04 LTS
 
 ##安装系统运行依赖，完成语音唤醒
 
-参考https://developer.baidu.com/forum/topic/show/244631?pageNo=1  https://developer.baidu.com/forum/topic/show/244881
+参考https://developer.baidu.com/forum/topic/show/244631?pageNo=1 和 https://developer.baidu.com/forum/topic/show/244881
 
 
 sudo apt-get update
