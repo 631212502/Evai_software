@@ -46,7 +46,13 @@ sudo pip install hyper
     
     sudo pip install scipy
 
-3.安装scikit-learn
+3.安装pandas：
+
+    sudo pip install -i  https://pypi.mirrors.ustc.edu.cn/simple pytz
+    
+    sudo pip install -i  https://pypi.mirrors.ustc.edu.cn/simple pandas
+    
+4.安装scikit-learn
 
     sudo pip install sklearn
 
@@ -62,7 +68,7 @@ xwinwrap + mplayer
 sudo apt install mplayer
 
 然后下载 xwinwrap，我上传到百度云https://pan.baidu.com/s/1eSp8QJo 了，安装包只有 8KB，非常简单的代码。
-接下来安装 xwinwrap64.deb：
+解压提取后，接下来安装 xwinwrap64.deb：
 
 sudo dpkg -i xwinwrap64.deb
 
