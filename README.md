@@ -19,6 +19,12 @@ sudo apt-get install libatlas-base-dev
 
 sudo apt-get install python-dev
 
+##新系统在此可以先安装pip（以下是针对Ubuntu16自带的python2.7.12安装pip）
+
+    sudo apt-get install python-setuptools python-dev build-essential
+    
+    sudo  easy_install pip
+
 sudo pip install baidu-aip
 
 sudo pip install tornado
@@ -32,7 +38,7 @@ sudo pip install hyper
 
 1.安装numpy：
 
-    pip install numpy
+    sudo pip install numpy
 
 2.安装scipy：
 
@@ -42,7 +48,7 @@ sudo pip install hyper
 
 3.安装scikit-learn
 
-    sudo pip sklearn
+    sudo pip install sklearn
 
 
 ##安装界面播放软件
