@@ -1,4 +1,5 @@
-# M-system
+# M-system软件代码
+通过API服务以及Ubuntu系统搭建了一份可用于语音交互的AI软件代码
 
 Install process for Ubuntu 16.04 LTS
 
